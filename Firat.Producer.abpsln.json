@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Firat.Producer": {
+      "path": "Firat.Producer.abpmdl.json"
+    }
+  }
+}
